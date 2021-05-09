@@ -68,12 +68,13 @@ button:hover {
     margin-top: 440px;
     text-align: center;
     height: 120px;
-    padding: 20px 0;
+    padding-bottom: 15px;
 }
 .result h2{
     text-decoration: underline;
     font-size: 200%;
     color: rgb(80, 50, 189);
+    padding-top: 15px;
 }
 #resdes {
     font-size: 160%;

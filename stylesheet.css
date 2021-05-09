@@ -68,6 +68,7 @@ button:hover {
     margin-top: 440px;
     text-align: center;
     height: 120px;
+    padding: 20px 0;
 }
 .result h2{
     text-decoration: underline;
